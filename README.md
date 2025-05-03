@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/superposition-tusky-mcp-server-badge.png)](https://mseep.ai/app/superposition-tusky-mcp-server)
+
 # Tusky MCP Server 🦣
 
 A Model Context Protocol (MCP) server for integrating Tusky with Claude and other MCP-compatible AI systems.
